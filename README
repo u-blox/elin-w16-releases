@@ -1,0 +1,16 @@
+Binary release repository for ELIN-W160
+
+Release History:
+
+2014-12-19 ELIN-W160 v0.9.0.0
+Files:
+	elin-w160-evk-v0.9.0.0.tar.bz2	
+		MD5: f442b96003669fe496fb04945a3e5c94,
+		SHA1:290c01e542e36dde4d6409efaf5a9c7faf8468e6
+
+Known issues:
+
+# PMIC Power off
+After issuing power off in shell the system will not power on by push button on first attempt.
+Work around - Power cycle the board or press the push button two times with 8
+sec delay to allow the VINT_RTC to power off.
