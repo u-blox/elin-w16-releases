@@ -2,6 +2,20 @@ Binary release repository for ELIN-W160
 
 Release History:
 
+2015-06-10 ELIN-W160 v1.0.0.0
+
+- Update of poky to daisy 11.0.3
+- Update of meta-openembedded to latest on daisy branch
+- Update of Linux kernel to 3.17.8
+- Added iptables, bridge utils, hcidump, hostap daemon and ELIN-W1 product web page
+
+Files:
+	elin-w160-evk-v1.0.0.0.tar.bz2
+		MD5:  fd053062c16fe183fff549dc8abec8a1
+		SHA1: b8a254eef46b5d9f2f9d88b631b91c1721606c5f
+
+=================================================================
+
 2015-05-18 ELIN-W160 v0.9.1.0
 
 - Update of poky to daisy 11.0.2
