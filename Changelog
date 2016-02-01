@@ -2,6 +2,21 @@ Binary release repository for ELIN-W160
 
 Release History:
 
+2016-02-01 ELIN-W160 v2.0.0.0
+
+- Update poky to fido 1.8.1
+- Update meta-openembedded to latest on fido branch
+- Update Linux kernel to version 3.19.8
+- Added bluez5 and updated it to version 5.35
+- Added socat, ppp, procps, tcpdump
+
+Files:
+        elin-w160-evk-v1.0.0.0.tar.bz2
+                MD5:  f594d44bb634cd8f963c268e2ac8f69f
+                SHA1: 92ead1167c7690df4c2ea3d25761372f1d7be08a
+
+=================================================================
+
 2015-06-10 ELIN-W160 v1.0.0.0
 
 - Update of poky to daisy 11.0.3
